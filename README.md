@@ -52,7 +52,7 @@ cd persianteam
 ***
 ### اموزش ها
 
-[اموزش کامل نصب](https://telegram.me/etehad_arazel)
+[اموزش کامل نصب](https://youtu.be/sweEIhFF89k)
 
 ### Developers
 [persiancyber1](https://telegram.me/persiancyber1)
